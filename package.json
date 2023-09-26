@@ -1,0 +1,21 @@
+{
+  "name": "auto-release",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveTseng/auto-release.git"
+  },
+  "author": "Steve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveTseng/auto-release/issues"
+  },
+  "homepage": "https://github.com/SteveTseng/auto-release#readme"
+}
